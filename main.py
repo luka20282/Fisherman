@@ -6,7 +6,7 @@ import numpy as np
 
 keyboard = Controller()
 
-time.sleep(2)
+time.sleep(5)
 
 while True:
     pyautogui.hotkey("e")
